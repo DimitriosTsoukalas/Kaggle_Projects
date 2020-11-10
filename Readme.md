@@ -6,8 +6,7 @@ This first project is a machine learning task on the Titanic Database. Here ther
 
 Goals:
 
-(1). Is it possible to create a model to predict whether a passenger surived or not the accident based on given features? 
-
+(1). Is it possible to create a model to predict whether a passenger survived or not the accident based on given features? 
 (2). How accurately and what is the best algorithm to make this prediction?
 
 
