@@ -3,6 +3,7 @@ This first project is a machine learning task on the Titanic Database. You can f
 
 ## Goals:
 (1). Is it possible to create a model to predict whether a passenger survived or not the accident based on given features? 
+
 (2). How accurately and what is the best algorithm to make this prediction?
 
 # Project 2: Anime Dataset
