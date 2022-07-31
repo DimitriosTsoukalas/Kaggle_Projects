@@ -19,4 +19,13 @@ In this research question we will examine the most active genres in production o
 3). What are the most commonly used keywords for the Description feature?
 For this research question we will use the description feature and try to create Word Clouds. This is a very exciting process and allows us to acquire some value and of course conduct further analysis if needed. We will run the Word Cloud three times, filtering out, each time, some words that might not give us much value.
 
+# Project 3: Fifa Dataset
+
+## Goals:
+1)
+
+2)
+
+3)
+
 Soure: All Datasets were imported from Kaggle.
