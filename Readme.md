@@ -1,4 +1,5 @@
 # Project 1: Titanic Dataset
+
 This first project is a machine learning task on the Titanic Database. You can find some basic cleaning techniques of the NaN values and some conversion of the categorical features to numeric ones. No much analysis is provided though as the Titanic dataset was extensively researched by many individuals already and a big library exists in Kaggle.
 
 ## Goals:
@@ -7,6 +8,7 @@ This first project is a machine learning task on the Titanic Database. You can f
 (2). How accurately and what is the best algorithm to make this prediction?
 
 # Project 2: Anime Dataset
+
 The second project is an Exploratory Data Analysis task on the Anime World database. You can find some columns/ rows´ processing along with some techniques to present Word Clouds.
 
 ## Goals:
@@ -21,11 +23,6 @@ For this research question we will use the description feature and try to create
 
 # Project 3: Fifa Dataset
 
-## Goals:
-1)
-
-2)
-
-3)
+This is a simple machine learning task using the Fifa 2018 database. The aim of the task it to train an algorithm that predicts overall performance of a player using different features related to passing, accuracy, scoring etc.
 
 Soure: All Datasets were imported from Kaggle.
