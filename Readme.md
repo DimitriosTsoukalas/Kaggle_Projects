@@ -26,3 +26,15 @@ For this research question we will use the description feature and try to create
 This is a simple machine learning task using the Fifa 2018 database. The aim of the task it to train an algorithm that predicts overall performance of a player using different features related to passing, accuracy, scoring etc.
 
 Soure: All Datasets were imported from Kaggle.
+
+# Project 4: Speceship Titanic
+
+The fourth project is an EDA, machine learning and algorithm tunning project on the Speceship Titanic. It is also my first submission on Kaggle that achieved 0.80 public score.
+
+## Goals:
+
+1). The first goal was to understand some basic EDA concepts
+2). The second goal was to explore some feature engineering capabilities
+3). The third goal was to investigate and conduct proper feature selection
+4). The fourth goal was to train different machine learning algorithms
+5). The fifth goal was to tune the algorithms and select the most optimal one.
